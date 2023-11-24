@@ -12,4 +12,4 @@
 
 # ~ gvim generate the temp file
 *~
-
+*.swp
