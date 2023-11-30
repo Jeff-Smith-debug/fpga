@@ -87,6 +87,17 @@ Solves :1. 1 bit signal: delay 1 clk;
 Exer:1.
 
 ## 1.5 timing logic
+how to behaviour model
+1.basic model
 
+2.behaviour model--Recommaned
 
+```verilog
+//cnt_10
 
+```
+
+## 1.6 State machine
+1.State 2.Transfer 3.output;
+why use 3-State to achieve the state-machine;
+when to use state-machine-state;
