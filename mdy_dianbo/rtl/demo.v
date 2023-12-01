@@ -39,5 +39,16 @@ always @(posedge clk or negedge rstn) begin
         end
     end
 end
+
 endmodule
+
+always  @(posedge clk or negedge rst_n)begin
+    if(rst_n==1'b0)begin
+    end
+    else if()begin
+    end
+    else if()begin
+    end
+end
+
 ```
